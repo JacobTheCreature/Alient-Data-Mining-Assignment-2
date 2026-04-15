@@ -9,7 +9,7 @@ Three geographically dispersed plants (Minneapolis, Austin, Newark) are experien
 1. **Descriptive Analytics** — OEE decomposition and downtime/abort heatmaps across plants
 2. **Pattern Mining** — Apriori association rules and decision trees to link incidents to downtime and aborts
 3. **Cross-Plant Correlation** — Pearson correlation, Dynamic Time Warping, and PCA to prove lockstep degradation
-4. **Predictive Maintenance** — Random Forest and Gradient Boosted Trees (75/25 train/test split) to predict downtime, plus a rolling cross-plant correlation alerting system
+4. **Predictive Maintenance** — Random Forest and Gradient Boosted Trees (75/25 train/test split) to predict downtime
 
 ## Setup
 
