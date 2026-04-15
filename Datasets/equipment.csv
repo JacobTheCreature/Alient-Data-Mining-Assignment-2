@@ -1,0 +1,13 @@
+equip_id,plant_id,equip_name,process_step
+EQ-101,PLT-001,Granulator Unit A,Step 1 – Granulation
+EQ-102,PLT-001,Ribbon Blender B,Step 2 – Blending
+EQ-103,PLT-001,Rotary Tablet Press,Step 3 – Compression
+EQ-104,PLT-001,Pan Coater Alpha,Step 4 – Coating
+EQ-201,PLT-002,Fluid Bed Granulator,Step 1 – Granulation
+EQ-202,PLT-002,V-Blender 500L,Step 2 – Blending
+EQ-203,PLT-002,Compression Unit II,Step 3 – Compression
+EQ-204,PLT-002,Perforated Coater B,Step 4 – Coating
+EQ-301,PLT-003,High-Shear Granulator,Step 1 – Granulation
+EQ-302,PLT-003,Bin Blender C,Step 2 – Blending
+EQ-303,PLT-003,Eccentric Press III,Step 3 – Compression
+EQ-304,PLT-003,Coating Drum Delta,Step 4 – Coating
